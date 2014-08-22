@@ -4,6 +4,7 @@ humor
   EN：Code comments for :glod bless me，bug Keep away me!
   ZH：代码注视中的：佛祖保佑，永无bu
   preview:
+  `
                    _ooOoo_ 
                   o8888888o 
                   88" . "88 
@@ -30,3 +31,4 @@ humor
                                   Hardy跪拜
 
 ～～～～～～～～～～～～～～～～～～～～～～～～～～～
+`
